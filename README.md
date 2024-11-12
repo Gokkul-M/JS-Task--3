@@ -2,7 +2,7 @@
 
 
 Task 0: Duplicate a HTML Div Container
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,7 +26,7 @@ Task 0: Duplicate a HTML Div Container
 
 </body>
 </html>
-
+```
 Result :
 
 ![Screenshot 2024-11-12 092614](https://github.com/user-attachments/assets/b1412de3-1310-42e5-85cb-e0c51639379d)
@@ -34,7 +34,7 @@ Result :
 
 Task 1: Create a Table with User-Defined Rows and Columns
 
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -94,14 +94,14 @@ Task 1: Create a Table with User-Defined Rows and Columns
 
 </body>
 </html>
-
+```
 Result :
 
 ![Screenshot 2024-11-12 093731](https://github.com/user-attachments/assets/2e09794a-21fb-421b-afb7-6ba3dd1f32dc)
 
 
 Task 2: Rotate a String
-
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -151,7 +151,7 @@ Task 2: Rotate a String
 
 </body>
 </html>
-
+```
 Result :
 ![Screenshot 2024-11-12 094143](https://github.com/user-attachments/assets/6b39d2e8-e1fe-4003-9edc-23e8f97c7316)
 
@@ -159,7 +159,7 @@ Result :
 
 Task 3: Remove a Character at a Specified Position
 
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -189,14 +189,14 @@ Task 3: Remove a Character at a Specified Position
 
 </body>
 </html>
-
+```
 Result: 
 
 ![Screenshot 2024-11-12 094336](https://github.com/user-attachments/assets/5cc5b93c-3967-4163-a628-a3eb71ae626c)
 
 
 Task 4: Count the Number of Vowels in a String
-
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -221,7 +221,7 @@ Task 4: Count the Number of Vowels in a String
 
 </body>
 </html>
-
+```
 Result:
 ![Screenshot 2024-11-12 094912](https://github.com/user-attachments/assets/5c12ef8f-a7ee-4b60-979b-21af7e701b2d)
 
@@ -229,7 +229,7 @@ Result:
 
 Task 5: Swap the First and Last Elements of an Array
 
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -258,7 +258,7 @@ Task 5: Swap the First and Last Elements of an Array
 
 </body>
 </html>
-
+```
 
 Result :
 ![Screenshot 2024-11-12 100059](https://github.com/user-attachments/assets/a10b0508-1fc6-4d8a-88da-be04419a6a31)
@@ -279,7 +279,7 @@ n
 …
 n+2n​+4n​+8n​+…
 
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -307,7 +307,7 @@ n+2n​+4n​+8n​+…
 
 </body>
 </html>
-
+```
 Result :
 
 ![Screenshot 2024-11-12 101401](https://github.com/user-attachments/assets/e04074a4-28a8-4238-91d7-8138e233eb3a)
@@ -315,7 +315,7 @@ Result :
 
 Task 7) Find the Longest String from an Array 
 
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -339,14 +339,14 @@ Task 7) Find the Longest String from an Array
 
 </body>
 </html>
-
+```
 Result :
 ![Screenshot 2024-11-12 101547](https://github.com/user-attachments/assets/d32db231-0a2c-452c-8aa8-c686343b6cc9)
 
 
 Task 8) Palindrome Check :
 
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -370,14 +370,14 @@ Task 8) Palindrome Check :
 
 </body>
 </html>
-
+```
 Result :
 
 ![Screenshot 2024-11-12 101744](https://github.com/user-attachments/assets/2263c138-6bf9-4a69-a2ec-1c79db532dc2)
 
 
 Task 9) Prime Number Check
-
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -411,14 +411,14 @@ Task 9) Prime Number Check
 
 </body>
 </html>
-
+```
 Result :
 
 ![Screenshot 2024-11-12 102032](https://github.com/user-attachments/assets/b61f35cf-83a0-47a3-b676-a82243a5fd6f)
 
 
 Task 10) Fibonacci Series
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -445,13 +445,13 @@ Task 10) Fibonacci Series
 
 </body>
 </html>
-
+```
 Result :
 
 
 Task 11) Factorial of a Number :
 
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -478,14 +478,14 @@ Task 11) Factorial of a Number :
 
 </body>
 </html>
-
+```
 Result :
 
 ![Screenshot 2024-11-12 102216](https://github.com/user-attachments/assets/0b8cec05-9ddf-4274-b515-799bd0c56147)
 
 
 Task 12) Construct a Pattern
-
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -511,14 +511,14 @@ Task 12) Construct a Pattern
     </script>
 </body>
 </html>
-
+```
 Result :
 
 ![Screenshot 2024-11-12 102408](https://github.com/user-attachments/assets/42047fab-94ac-457e-870d-0d2497216766)
 
 
 Task 13) Pyramid Pattern :
-
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -548,14 +548,14 @@ Task 13) Pyramid Pattern :
 </body>
 </html>
 
-
+```
 Result :
 
 ![Screenshot 2024-11-12 102641](https://github.com/user-attachments/assets/0633f5f0-c32a-4714-9bf7-e8db1574443a)
 
 
 Task 14) Form Validations :
-
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -596,7 +596,7 @@ Task 14) Form Validations :
     </script>
 </body>
 </html>
-
+```
 Result :
 
 ![Screenshot 2024-11-12 103407](https://github.com/user-attachments/assets/3595cfe1-b54b-4cde-aa85-68d6cdd58117)
@@ -604,7 +604,7 @@ Result :
 
 Task 15) JavaScript Calculator
 
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -630,7 +630,7 @@ Task 15) JavaScript Calculator
     </script>
 </body>
 </html>
-
+```
 Result :
 
 ![Screenshot 2024-11-12 103653](https://github.com/user-attachments/assets/e81750dd-7ee3-42bc-99c0-60a7620a4340)
@@ -638,7 +638,7 @@ Result :
 
 Task 16) Task List (Add, Delete) :
 
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -662,7 +662,7 @@ Task 16) Task List (Add, Delete) :
     </script>
 </body>
 </html>
-
+```
 Result :
 
 ![Screenshot 2024-11-12 104114](https://github.com/user-attachments/assets/f3fff3c5-1b75-443c-ae64-13de09ad14cd)
@@ -670,7 +670,7 @@ Result :
 
 Task 17) Progress Bar : 
 
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -695,7 +695,7 @@ Task 17) Progress Bar :
     </script>
 </body>
 </html>
-
+```
 Result :
 
 ![Screenshot 2024-11-12 104216](https://github.com/user-attachments/assets/06172900-1205-4414-b3ab-400627a9c378)
@@ -703,7 +703,7 @@ Result :
 
 Task 18) Collapsible Container with Content :
 
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -725,7 +725,7 @@ Task 18) Collapsible Container with Content :
     </script>
 </body>
 </html>
-
+```
 Result :
 ![Screenshot 2024-11-12 104309](https://github.com/user-attachments/assets/c082e517-897d-4e1f-bf13-775b0c0483cc)
 
